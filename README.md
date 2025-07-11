@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a BS in Artificial Intelligence student, passi
 - Educational Tech Projects (STEM Kits, Simulators)  
 
 ## 📫 How to reach me:
-- **Email:** zainulabdeen773@gmail.com  
-- **LinkedIn:** [linkedin.com/in/zainulabdeen773](https://www.linkedin.com/in/zainulabdeen773)  
+- **Email:** zainulabdeenfaisal69@gmail.com  
+- **LinkedIn:** [linkedin.com/in/zainulabdeen773](http://www.linkedin.com/in/zain-ul-abdeen-48aa72318)  
 - **GitHub:** [github.com/Zain-ul-abdeen-773](https://github.com/Zain-ul-abdeen-773)  
 
 ## 😄 Pronouns:
