@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a BS in Artificial Intelligence student, passi
 - Deep Learning and Computer Vision  
 - Web Development (Flask, HTML, CSS, JS)  
 - Databases (PostgreSQL, SQLite)  
-- Automation, APIs, and AI Tools Integration  
+- Automation, APIs, and AI Tools Integration
+- DevOps (Docker, CI/CD, Github Actions, Terraform)
 
 ## 🌱 I’m currently learning:
 - Advanced AI Architectures (Transformers, BERT)  
