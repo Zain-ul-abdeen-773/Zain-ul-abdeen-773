@@ -1,4 +1,4 @@
-# Zain ul Abdeen
+# Zain Ul Abdeen
 
 **BS Artificial Intelligence @ GIKI** · CGPA 3.65 · Pakistan
 
