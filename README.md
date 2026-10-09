@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ANIMATED TROPHIES -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zain-ul-abdeen-773&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Zain-ul-abdeen-773&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- ANIMATED SNAKE (Eats your contributions!) -->
+<!-- ANIMATED SNAKE (Eats your contributions! Will show up after your Action runs once) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain-ul-abdeen-773/Zain-ul-abdeen-773/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zain-ul-abdeen-773/Zain-ul-abdeen-773/output/github-snake.svg">
@@ -27,46 +27,51 @@
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- GLOWING ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/aaronNGi/aaronNGi/main/images/rainbow.gif" width="100%" height="4px">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> About Me
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="Robot" width="35" height="35" /> About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Hacker Gif" width="220" />
+
 My work sits at the intersection of **AI agents, data systems, and deployment infrastructure**. I specialize in developing multi-agent LLM pipelines, architecting scalable ML platforms, and engineering high-performance generative models. From optimizing small language models (SLMs) under strict GPU constraints to building end-to-end serverless forecasting pipelines, I build things meant to actually run.
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> Currently in my 7th semester of **BS Artificial Intelligence** at GIKI.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Fencing.png" alt="Fencing" width="20" height="20" /> Researching **Layer-Wise Reasoning Sensitivity Allocation (LWRSA)** mixed-precision quantization for SLMs.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> Deeply invested in MLOps, containerization, and cloud infrastructure engineering.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="Graduation Cap" width="22" height="22" /> Currently in my 7th semester of **BS Artificial Intelligence** at GIKI.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="Brain" width="22" height="22" /> Researching **Layer-Wise Reasoning Sensitivity Allocation (LWRSA)** mixed-precision quantization for SLMs.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="Lightning" width="22" height="22" /> Deeply invested in MLOps, containerization, and cloud infrastructure engineering.
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
+<br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> The Tech Arsenal
+<!-- GLOWING ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/aaronNGi/aaronNGi/main/images/rainbow.gif" width="100%" height="4px">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> AI, Machine Learning & Data Science**<br>
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="Laptop" width="35" height="35" /> The Tech Arsenal
+
+**<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.gif" alt="Microscope" width="25" height="25" /> AI, Machine Learning & Data Science**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> MLOps, Cloud & Architecture**<br>
+**<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="Cloud" width="25" height="25" /> MLOps, Cloud & Architecture**<br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Paperclips" width="25" height="25" /> Backend, Data Engineering & Databases**<br>
+**<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4be/512.gif" alt="Floppy" width="25" height="25" /> Backend, Data Engineering & Databases**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- GLOWING ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/aaronNGi/aaronNGi/main/images/rainbow.gif" width="100%" height="4px">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Flagship Projects & Research
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket" width="35" height="35" /> Flagship Projects & Research
 
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="20" height="20" /> **LWRSA Quantization for SLMs (Current Research):** Pioneering Layer-Wise Reasoning Sensitivity Allocation mixed-precision quantization for Small Language Models.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> **The AI Scientist:** Multi-agent LLM research assistant built for the World Bank × Hack-Nation AI Hackathon. Runs on LLaMA 3.3 70B & Gemini 2.0.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="20" height="20" /> **EconML:** Full-stack financial ML platform. 26 models across 8 assets, BiLSTM forecasting (6.18% MAPE), and SMOTE-based fraud detection.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite%20Antenna.png" alt="Satellite" width="20" height="20" /> **Aegis-IoT:** 5-layer AnyLogic IoT network simulation with embedded ML inference (Random Forest, One-Class SVM) and tabular Q-learning.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" alt="Sun Behind Cloud" width="20" height="20" /> **Pearls AQI Predictor:** End-to-end serverless machine learning pipeline for three-day air quality index forecasting.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="20" height="20" /> **Generative Fashion Designer:** Generative suite for textile pattern design using 6 locally-trained models (VAE, DCGAN, WGAN-GP, cGAN, Latent DiT).
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="Fire" width="22" height="22" /> **LWRSA Quantization for SLMs (Current Research):** Pioneering Layer-Wise Reasoning Sensitivity Allocation mixed-precision quantization for Small Language Models.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="Crystal Ball" width="22" height="22" /> **The AI Scientist:** Multi-agent LLM research assistant built for the World Bank × Hack-Nation AI Hackathon. Runs on LLaMA 3.3 70B & Gemini 2.0.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b0/512.gif" alt="Money" width="22" height="22" /> **EconML:** Full-stack financial ML platform. 26 models across 8 assets, BiLSTM forecasting (6.18% MAPE), and SMOTE-based fraud detection.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="Globe" width="22" height="22" /> **Aegis-IoT:** 5-layer AnyLogic IoT network simulation with embedded ML inference (Random Forest, One-Class SVM) and tabular Q-learning.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="Star" width="22" height="22" /> **Pearls AQI Predictor:** End-to-end serverless machine learning pipeline for three-day air quality index forecasting.
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- GLOWING ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/aaronNGi/aaronNGi/main/images/rainbow.gif" width="100%" height="4px">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Engineering Experience
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="Briefcase" width="35" height="35" /> Engineering Experience
 
 | Role | Organization | Focus & Impact |
 | :--- | :--- | :--- |
@@ -74,10 +79,10 @@ My work sits at the intersection of **AI agents, data systems, and deployment in
 | **NLP Engineer Intern** | *Elvvo* | Engineered production NLP pipelines: abstractive multi-document text summarization via BART, and an intelligent resume screening pipeline. |
 | **AI/ML Intern** | *Developers Hub Corp* | Implemented AI agent architectures, optimized data integration pipelines, and deployed scalable machine learning solutions. |
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- GLOWING ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/aaronNGi/aaronNGi/main/images/rainbow.gif" width="100%" height="4px">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> GitHub Analytics
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="Chart" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
 
