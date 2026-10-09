@@ -8,11 +8,6 @@
 
 <br/>
 
-<!-- ORIGINAL TROPHIES -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zain-ul-abdeen-773&theme=onedark)](https://github.com/Zain-ul-abdeen-773/github-profile-trophy)
-
-<br/>
-
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ul-abdeen-48aa72318) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://zain-ul-abdeen-773.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainulabdeen9909@gmail.com) 
 
@@ -85,11 +80,6 @@ My work sits at the intersection of **AI agents, data systems, and deployment in
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="Chart" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
-
-  <!-- ANIMATED ACTIVITY GRAPH (Draws on load) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-ul-abdeen-773&bg_color=0D1117&color=3ECF8E&line=3ECF8E&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Active%20Graph" width="100%" />
-
-  <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Zain-ul-abdeen-773&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-ul-abdeen-773&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
