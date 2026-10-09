@@ -8,8 +8,8 @@
 
 <br/>
 
-<!-- ANIMATED TROPHIES -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Zain-ul-abdeen-773&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ORIGINAL TROPHIES -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zain-ul-abdeen-773&theme=onedark)](https://github.com/Zain-ul-abdeen-773/github-profile-trophy)
 
 <br/>
 
@@ -91,12 +91,12 @@ My work sits at the intersection of **AI agents, data systems, and deployment in
 
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-ul-abdeen-773&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3ECF8E&icon_color=3ECF8E" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-ul-abdeen-773&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=3ECF8E" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain-ul-abdeen-773&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-ul-abdeen-773&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-ul-abdeen-773&theme=dark&hide_border=false&background=0D1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Zain-ul-abdeen-773&theme=dark&hide_border=false" width="97%" />
   
   <br><br>
   
